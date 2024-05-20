@@ -1,4 +1,4 @@
-function console_title(x) {
+function console_title(x) {539967101
     if (process.platform == 'win32') {
         process.title = x + " / FastBomber v1.0 - github.com/fastuptime";
     } else {
